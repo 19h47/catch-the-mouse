@@ -1,0 +1,14 @@
+{
+  "name": "catch-the-mouse",
+  "version": "1.0.0",
+  "description": "Playing with the mouse's coordinate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jérémy Levron <levronjeremy@19h47.fr> (19h47.fr)",
+  "license": "ISC"
+}
